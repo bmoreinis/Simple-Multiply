@@ -1,0 +1,15 @@
+#startButton {
+  padding: 20px;
+  background-color:blue;
+  border-radius: 25px;
+  font-size:18pt;
+  text-align: center;
+}
+#startButton:hover {
+  background-color:royalblue;
+}
+#startButton:active {
+  background-color: royalblue;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
